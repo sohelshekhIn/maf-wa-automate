@@ -1,3 +1,6 @@
-2023/10/14-21:58:01.716 d50 Reusing MANIFEST E:\Freelance\Ashapuri Fireworks Website - Heet\test_automate\tokens\session\Default\Local Storage\leveldb/MANIFEST-000001
-2023/10/14-21:58:01.718 d50 Recovering log #7
-2023/10/14-21:58:01.718 d50 Reusing old log E:\Freelance\Ashapuri Fireworks Website - Heet\test_automate\tokens\session\Default\Local Storage\leveldb/000007.log 
+2023/10/24-16:13:54.681 4e24 Reusing MANIFEST E:\Freelance\Ashapuri Fireworks Website - Heet\test_automate\tokens\session\Default\Local Storage\leveldb/MANIFEST-000001
+2023/10/24-16:13:54.682 4e24 Recovering log #10
+2023/10/24-16:13:54.683 4e24 Reusing old log E:\Freelance\Ashapuri Fireworks Website - Heet\test_automate\tokens\session\Default\Local Storage\leveldb/000010.log 
+2023/10/24-16:32:56.721 148c Level-0 table #14: started
+2023/10/24-16:32:56.767 148c Level-0 table #14: 18838 bytes OK
+2023/10/24-16:32:56.789 148c Delete type=0 #10
