@@ -18,6 +18,18 @@ pnpm install
 
 
 # Getting Started
+
+Before you can start using the WhatsApp Image Upload Automation, follow these steps:
+
+1. Create a `.env` file in the root of your project.
+
+2. Open the `.env` file in a text editor and add the following variables:
+
+   ```env
+   TARGET_WA_MOBILE= # Add your target WhatsApp mobile number (including international code)
+   DATA_ENTRY_API= # Add the URL of your Flask Data Entry API endpoint
+   ```
+
 ```bash
 pnpm start
 ```
